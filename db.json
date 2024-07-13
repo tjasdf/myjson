@@ -36,8 +36,8 @@
     },
     "users":{
         "Dermon":{
-            "debet":"1200",
-            "credit":"126000",
+            "debet":1200,
+            "credit":126000,
             "password":"9999",
             "actions":{
                 "remove":{
